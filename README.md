@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tiagofilip
+- 👀 I’m interested in software development and AI
+- 🌱 I’m currently learning a lot of different skills! IEFP provides me with several modules in Python, SQL, Java, .NET and many more
+- 💞️ I’m looking to collaborate on different types of projects, but Python is my favorite language to explore
+- 📫 You can reach me @ tiagosampaio@mail-me.com
+- 😄 Pronouns: he/him or they/them, whichever you prefer!
+- ⚡ Fun fact: I love ancient history and archeology, because of it, I know how to speak a bit of Greek! I hope to one day join both passions and help archeologists with AI!
